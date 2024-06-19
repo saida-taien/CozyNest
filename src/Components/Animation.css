@@ -1,0 +1,4 @@
+.animate__animated.animate__fadeInUp , .animate__lightSpeedInRight , .animate__fadeIn {
+    --animate-duration: 2s;
+    
+  }

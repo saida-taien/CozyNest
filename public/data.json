@@ -1,0 +1,97 @@
+{
+    "rooms": [
+      {
+        
+        "type": "Spacious Urban Loft",
+        "id": "101",
+        "segment_name": "Apartment",
+        "description": "Modern loft-style apartment in the heart of downtown, perfect for urban living.",
+        "price_per_night": 450000,
+        "status": "sale",
+        "area": "1800 sq ft",
+        "location": "City Center",
+        "facilities": ["Open Layout", "City Views", "Fitness Center"],
+        "image_url": "https://i.ibb.co/QD5TSts/Spacious-Urban-Loft.jpg"
+      },
+      {
+        "type": "Family Home with Garden",
+        "id": "102",
+        "segment_name": "House",
+        "description": "Charming family home with a spacious garden, ideal for kids and outdoor activities.",
+        "price_per_night": 600000,
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Suburban Neighborhood",
+        "facilities": ["Large Garden", "Outdoor Patio", "Garage"],
+        "image_url": "https://i.ibb.co/9yG50Bk/Family-Home-with-Garden.jpg"
+      },
+      {
+        "type": "Luxury Penthouse with Panoramic Views",
+        "id": "103",
+        "segment_name": "Penthouse",
+        "description": "Exclusive penthouse with breathtaking panoramic views of the skyline.",
+        "price_per_night": 1500000,
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "High-rise Building",
+        "facilities": ["Private Terrace", "High-end Finishes", "Concierge Service"],
+        "image_url": "https://i.ibb.co/NNQJwx7/Luxury-Penthouse.jpg"
+      },
+      {
+        "type": "Beachfront Condo",
+        "id": "104",
+        "segment_name": "Condo",
+        "description": "Stylish condo overlooking the beach, offering a serene coastal lifestyle.",
+        "price_per_night": 800000,
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Oceanfront",
+        "facilities": ["Direct Beach Access", "Pool", "Fitness Center"],
+        "image_url": "https://i.ibb.co/jz7yCYN/Beachfront-Condo.jpg"
+      },
+      {
+        "type": "Mountain View Retreat",
+        "id": "105",
+        "segment_name": "Cabin",
+        "description": "Cozy cabin nestled in the mountains, perfect for nature enthusiasts.",
+        "price_per_night": 300000,
+        "status": "sale",
+        "area": "1200 sq ft",
+        "location": "Scenic Mountains",
+        "facilities": ["Fireplace", "Deck with Views", "Hiking Trails Nearby"],
+        "image_url": "https://i.ibb.co/VwbjQ6k/Mountain-View.jpg"
+      },
+      {
+        "type": "Riverside Cottage",
+        "id": "106",
+        "segment_name": "Cottage",
+        "description": "Quaint cottage by the riverbank, offering peaceful waterfront living.",
+        "price_per_night": 250000,
+        "status": "rent",
+        "area": "1000 sq ft",
+        "location": "Riverside",
+        "facilities": ["River Access", "Garden Area", "Outdoor Dining"],
+        "image_url": "https://i.ibb.co/FwjY3S7/Riverside-Cottage.jpg"
+      }
+    ]
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
