@@ -15,3 +15,7 @@ Cozynest is a hospitality project designed to provide travelers with the perfect
 - animate.css
 - swiper
 
+# To clone this project and run your local computer :
+- copy link and clone
+- install npm
+- npm run dev 
