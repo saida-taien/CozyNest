@@ -11,6 +11,7 @@ Cozynest is a hospitality project designed to provide travelers with the perfect
 - **Responsive Design** : Mobile-friendly layout ensuring optimal viewing experience across devices. Utilization of CSS frameworks like Tailwind CSS for responsive styling.
 # Technology I have used for the challenges task:
 - React
+- JavaScript
 - Tailwind
 - animate.css
 - swiper
